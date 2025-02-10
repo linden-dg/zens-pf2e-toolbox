@@ -1,0 +1,37 @@
+{
+  "id": "zens-pf2e-toolbox",
+  "title": "Zen's Pf2E toolbox",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Linden",
+      "url": "https://github.com/linden-dg"
+    }
+  ],
+  "packs": [
+    {
+      "name": "effects",
+      "label": "Effects",
+      "path": "packs/effects",
+      "type": "Item",
+      "system": "pf2e",
+      "banner": "modules/zens-pf2e-toolbox/assets/zen_banner.webp"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Zen's Pf2E Toolbox",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "packs":[
+        "effects"
+      ]
+    }
+  ]
+}

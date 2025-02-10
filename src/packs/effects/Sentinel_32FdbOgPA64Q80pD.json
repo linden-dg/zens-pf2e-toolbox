@@ -1,0 +1,85 @@
+{
+  "folder": null,
+  "name": "Sentinel",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": ""
+    },
+    "rules": [
+      {
+        "key": "Aura",
+        "appearance": {
+          "border": {
+            "alpha": 0.05,
+            "color": "#7a7a7a"
+          }
+        },
+        "effects": [
+          {
+            "uuid": "Compendium.zens-pf2e-toolbox.effects.Item.VQeMwpLe2UTrbHCO",
+            "includesSelf": false,
+            "predicate": [
+              "target:type:character"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "sentinel-aura",
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null,
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-orange.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.4",
+    "createdTime": 1739147725674,
+    "modifiedTime": 1739147780656,
+    "lastModifiedBy": "WaiguvdSZTWzMUda"
+  },
+  "_id": "32FdbOgPA64Q80pD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WaiguvdSZTWzMUda": 3
+  },
+  "_key": "!items!32FdbOgPA64Q80pD"
+}

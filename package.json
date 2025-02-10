@@ -1,0 +1,17 @@
+{
+  "name": "zens-pf2e-toolbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:effects": "fvtt package pack --id zens-pf2e-toolbox --type Module -n effects --in=./src/packs/effects --out=packs",
+    "unpack:effects": "fvtt package unpack custom-effects --in packs --out src/packs/effects",
+    "setmodule": "fvtt package workon custom-effects --type Module"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.4"
+  }
+}

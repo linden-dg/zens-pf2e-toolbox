@@ -1,0 +1,66 @@
+{
+  "folder": null,
+  "name": "Protected!",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>A Guardian is protecting you from Strikes!</p>"
+    },
+    "rules": [],
+    "slug": "protected-effect",
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null,
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/skills/melee/shield-block-fire-orange.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.4",
+    "createdTime": 1739147724391,
+    "modifiedTime": 1739147752661,
+    "lastModifiedBy": "WaiguvdSZTWzMUda"
+  },
+  "_id": "VQeMwpLe2UTrbHCO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WaiguvdSZTWzMUda": 3
+  },
+  "_key": "!items!VQeMwpLe2UTrbHCO"
+}
